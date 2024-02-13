@@ -34,10 +34,11 @@
 
 
 ## Pembagian Tim
-<p>1.Razja</p>
-<p>2.Cindy Mengerjakan bagian sorting dan searching</p>
-<p>3.Miftah Mengerjakan bagian record, Stack dan LinkedList</p>
-
+<ul>
+<li>1.Razja</p>
+<li>2.Cindy Mengerjakan bagian sorting dan searching</li>
+<li>3.Miftah Mengerjakan bagian record, Stack dan LinkedList</li>
+</ul>  
 ## Demo Proyek
 <ul>
   <li>Github: <a href="">Github</a></li>
