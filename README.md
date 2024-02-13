@@ -24,12 +24,12 @@
 
 ## Komponen Proyek
 <ul>
-<li>1.LinkedLIst: Digunakan untuk menyimpan data catatan harian dalam urutan tertentu (Berdasarkan Tanggal)</li>
-<li>2.Stack: Digunakan untuk menyimpan riwayat catatan harian. Ketika sebuah catatan ditambahkan, itu dimasukan ke dalam tumpukan ini.</li>
-<p>3.Scanner: Digunakan untuk menerima input dari pengguna melalui consol</p>
-<p>4.collection: Sorting fungsinya untuk mengurutkan catatan harian berdasarkan tanggal</p>
-<p>5.searching: untuk mencari catatan</p>
-<li>6.Record: Record (Catatan Harian): Digunakan untuk merepresentasikan catatan harian sebagai objek tunggal. Ini membantu dalam organisasi data catatan harian dengan menyimpan tanggal, catatan, jadwal, dan status realisasi dalam satu objek. Dengan menggunakan record, kita dapat dengan mudah mengelola dan mengakses properti- properti ini.</l1>
+<li>LinkedLIst: Digunakan untuk menyimpan data catatan harian dalam urutan tertentu (Berdasarkan Tanggal)</li>
+<li>Stack: Digunakan untuk menyimpan riwayat catatan harian. Ketika sebuah catatan ditambahkan, itu dimasukan ke dalam tumpukan ini.</li>
+<li>Scanner: Digunakan untuk menerima input dari pengguna melalui consol</li>
+<li>collection: Sorting fungsinya untuk mengurutkan catatan harian berdasarkan tanggal</li>
+<li>searching: untuk mencari catatan</li>
+<li>Record: Record (Catatan Harian): Digunakan untuk merepresentasikan catatan harian sebagai objek tunggal. Ini membantu dalam organisasi data catatan harian dengan menyimpan tanggal, catatan, jadwal, dan status realisasi dalam satu objek. Dengan menggunakan record, kita dapat dengan mudah mengelola dan mengakses properti- properti ini.</l1>
 </ul>
 
 
