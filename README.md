@@ -23,9 +23,8 @@
 <p>Lorem ipsum sir dolor amet.</p>
 
 ## Komponen Proyek
-<p>1.LinkedLIst: Digunakan untuk menyimpan data catatan harian dalam urutan tertentu (Berdasarkan Tanggal)
-2.Stack</p>
-
+<p>1.LinkedLIst: Digunakan untuk menyimpan data catatan harian dalam urutan tertentu (Berdasarkan Tanggal)</p>
+<p>2. Stack</p>
 ## Pembagian Tim
 <p>Lorem ipsum sir dolor amet.</p>
 
