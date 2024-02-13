@@ -6,24 +6,25 @@
 
 ## Kelompok
 <ul>
-  <li>Kelompok: {kelompok 2}</li>
-  <li>Proyek: {proyek: Catatan Harian}</li>
+  <li>Kelompok: Kelompok 2</li>
+  <li>Proyek: Sistem Catatan Harian</li>
   <li>Anggota:</li>
   <ul>
-    <li>Ketua: <a href="">Ketua:</a></li>
-    <li>Anggota 1: <a href="">Anggota 1</a></li>
-    <li>Anggota 2: <a href="">Anggota 2</a></li>
+    <li>Ketua: <a href="">Rajza Muhammad Yasyfa Fajri Sidiq</a></li>
+    <li>Anggota 1: <a href="">Cindy Marcellina</a></li>
+    <li>Anggota 2: <a href="">Miftah Faiz Gemah Nurhafizh</a></li>
   </ul>
 </ul>
 
 ## Judul Proyek
-<p>Lorem ipsum sir dolor amet.</p>
+<p>Sistem Catatan Harian</p>
 
 ## Penjelasan Proyek
 <p>Lorem ipsum sir dolor amet.</p>
 
 ## Komponen Proyek
-<p>Lorem ipsum sir dolor amet.</p>
+<p>1.LinkedLIst: Digunakan untuk menyimpan data catatan harian dalam urutan tertentu (Berdasarkan Tanggal)
+2.Stack</p>
 
 ## Pembagian Tim
 <p>Lorem ipsum sir dolor amet.</p>
