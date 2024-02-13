@@ -24,7 +24,7 @@
 
 ## Komponen Proyek
 <ul>
-<li>LinkedLIst: Digunakan untuk menyimpan data catatan harian dalam urutan tertentu (Berdasarkan Tanggal)</li>
+<li>LinkedList: Digunakan untuk menyimpan data catatan harian dalam urutan tertentu (Berdasarkan Tanggal)</li>
 <li>Stack: Digunakan untuk menyimpan riwayat catatan harian. Ketika sebuah catatan ditambahkan, itu dimasukan ke dalam tumpukan ini.</li>
 <li>Scanner: Digunakan untuk menerima input dari pengguna melalui consol</li>
 <li>collection: Sorting fungsinya untuk mengurutkan catatan harian berdasarkan tanggal</li>
@@ -35,9 +35,9 @@
 
 ## Pembagian Tim
 <ul>
-<li>Razja</li>
+<li>Razja mengerjakan bagian linkedlist</li>
 <li>Cindy Mengerjakan bagian sorting dan searching</li>
-<li>Miftah Mengerjakan bagian record, Stack dan LinkedList</li>
+<li>Miftah Mengerjakan bagian record dan Stack</li>
 </ul>  
 
 ## Demo Proyek
