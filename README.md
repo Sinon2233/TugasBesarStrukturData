@@ -32,9 +32,9 @@
 
 
 ## Pembagian Tim
-1.Razja
-2.Cindy Mengerjakan bagian sorting dan searching
-3.Miftah Mengerjakan bagian record, Stack dan LinkedList
+<p>1.Razja</p>
+<p>2.Cindy Mengerjakan bagian sorting dan searching</p>
+<p>3.Miftah Mengerjakan bagian record, Stack dan LinkedList</p>
 
 ## Demo Proyek
 <ul>
