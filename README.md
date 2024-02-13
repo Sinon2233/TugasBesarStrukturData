@@ -20,7 +20,7 @@
 <p>Sistem Catatan Harian</p>
 
 ## Penjelasan Proyek
-<p>Lorem ipsum sir dolor amet.</p>
+<p>Di sistem catatan harian ini kita bisa menulis catatan mengenai kegiatan kita dihari tersebut, sistem catatan harian ini bersifat to do list maka dari itu di sistem ini terdapat fitur untuk melihat riwayat catatan kegiatan yang telah terealisasi atau pun belum terealisasi.</p>
 
 ## Komponen Proyek
 <ul>
