@@ -39,6 +39,7 @@
 <li>Cindy Mengerjakan bagian sorting dan searching</li>
 <li>Miftah Mengerjakan bagian record, Stack dan LinkedList</li>
 </ul>  
+
 ## Demo Proyek
 <ul>
   <li>Github: <a href="">Github</a></li>
